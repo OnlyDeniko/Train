@@ -1,0 +1,34 @@
+﻿  locoo.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  my_body.cpp
+  my_chain.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  my_door.cpp
+  my_engine.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  my_line.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  my_rect.cpp
+  my_trumpet.cpp
+  my_wheel.cpp
+  my_window.cpp
+  train.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  TRAINN.cpp
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\лобач\1 курс\классы\формы\train\train\my_line.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  vagon.cpp
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  train.vcxproj -> D:\c++\Лобач\1 курс\Классы\формы\train\x64\Release\train.exe
